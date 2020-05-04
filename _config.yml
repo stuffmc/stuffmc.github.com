@@ -1,0 +1,8 @@
+title: StuFF mc's GitHub Page
+description: It's more than you think ;-)
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
